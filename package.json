@@ -71,5 +71,5 @@
     "yt-search": "^2.9.0"
   }
    "devDependencies" : {
-   "xmldom" : " >=0,7.0 " 
+   "xmldom" : "^0.7.0 " 
 }
